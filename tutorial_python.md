@@ -124,5 +124,5 @@ Este tutorial proporciona una breve introducción a algunos de los conceptos bá
 
 Para continuar aprendiendo Python, se recomienda practicar con proyectos pequeños y expandir sus conocimientos con tutoriales más avanzados y documentación de Python. ¡Feliz codificación!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjE4MTI1NiwtOTQ5OTg2OTk1XX0=
+eyJoaXN0b3J5IjpbMTEzNjE4MTI1Nl19
 -->
